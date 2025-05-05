@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Coursera Course Analysis
 
 ## Overview
@@ -40,3 +41,6 @@ The analysis uses the `coursea_data.csv` dataset from kaggle.com containing info
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+=======
+# DS.v3.1.4.5
+>>>>>>> 4bc0a472beae564b63168a3e8d8aa90420bc7377
