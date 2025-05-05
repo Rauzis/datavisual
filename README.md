@@ -38,4 +38,4 @@ The notebook includes various visualizations to explore:
 ## Data Source
 The analysis uses the `coursea_data.csv` dataset containing information about Coursera courses.
 
-<pre> ## License This project is licensed under the [MIT License](LICENSE). </pre>
+## License This project is licensed under the [MIT License](LICENSE).
