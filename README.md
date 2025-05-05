@@ -36,6 +36,7 @@ The notebook includes various visualizations to explore:
 - seaborn
 
 ## Data Source
-The analysis uses the `coursea_data.csv` dataset containing information about Coursera courses.
+The analysis uses the `coursea_data.csv` dataset from kaggle.com containing information about Coursera courses.
 
-## License This project is licensed under the [MIT License](LICENSE).
+## License
+This project is licensed under the [MIT License](LICENSE).
